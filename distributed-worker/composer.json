@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zulucrypto/stellar-api": "^0.3.0"
+    }
+}
